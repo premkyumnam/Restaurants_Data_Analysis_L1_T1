@@ -34,7 +34,12 @@ A huge thanks to Cognifyz Technologies for this amazing learning opportunity! Ev
 <p>Explore the full project on LinkedIn and GitHub.<br>
 https://www.linkedin.com/in/yumnam-premkumar-singh-6347a8145/<br>
 
-I hope this will be very helpful to new learners and students. Thank you all!
+I hope this will be very helpful to new learners and students. <br>
+And I'd love to hear your thoughts and feedback!<br>
+Let's connect and explore more data-driven insights together.<br>
+Thank you all!
+
+<b> YUMNAM PREMKUMAR SINGH</b>
 </p>
 </body>
 </html>
