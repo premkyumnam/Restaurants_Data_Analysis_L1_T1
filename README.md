@@ -39,7 +39,7 @@ And I'd love to hear your thoughts and feedback!<br>
 Let's connect and explore more data-driven insights together.<br>
 Thank you all!
 
-<b> YUMNAM PREMKUMAR SINGH</b>
+<b> (YUMNAM PREMKUMAR SINGH)</b>
 </p>
 </body>
 </html>
